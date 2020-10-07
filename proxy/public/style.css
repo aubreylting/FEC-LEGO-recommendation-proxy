@@ -1,0 +1,21 @@
+.LagerContainer{
+  display: flex;
+  justify-content: space-between;
+  gap: 0;
+  padding-top: 20px;
+  background-color: #F8F8F8;
+}
+
+#gallery{
+  display: flex;
+  flex-grow: 5;
+  justify-content: center;
+}
+#details{
+  display: flex;
+  flex-grow: 2;
+}
+
+img{
+  width: 100%;
+}
